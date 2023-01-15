@@ -1,6 +1,6 @@
 # robotic_vision
 
-This repo has codes for the Lane detection task. 
+This repo contains code for the Lane detection task. 
 
 Objective: To take a video of a walk path/ a lane/ a road; to identify the leftmost and rightmost edges as the video plays and also calculate the median line that separates the edges.
 
